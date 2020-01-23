@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\babalabaly\source\repos\Project4\Project4\Source.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\babalabaly\source\repos\Project4\Project4\Source.cpp(14,9): warning C4101: min: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Project4.vcxproj -> C:\Users\babalabaly\source\repos\Project4\Release\Project4.exe
